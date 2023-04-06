@@ -6,4 +6,4 @@ function showMenu () {
 	menu.classList.toggle("show")
 }
 
-console.log('link to the layout' + 'https://www.figma.com/file/8bnLumYosiiSPOPxXE4cob/John?node-id=0-1&t=KERdYJGhxW5xiRvs-0');
+console.log('link to the layout ' + 'https://www.figma.com/file/8bnLumYosiiSPOPxXE4cob/John?node-id=0-1&t=KERdYJGhxW5xiRvs-0');
